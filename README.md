@@ -31,6 +31,7 @@ Output:
 "The quick brown fox jumps over the sluggish dog."
 Input: "I love coding with Python."
 
+- Input: "I love coding with Python."
 Output:
 "I adore programming with Python."
 "I enjoy coding using Python."
